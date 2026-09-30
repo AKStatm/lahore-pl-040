@@ -1,7 +1,7 @@
 {
   "leadId": "PL-040",
   "businessName": "Lahore Clinic لاہور کلینک",
-  "nicheId": "all niches",
+  "nicheId": "clinic",
   "category": "Medical Center",
   "phone": "03328997814",
   "whatsapp": "923328997814",
@@ -17,6 +17,6 @@
   "yearsExperience": 5,
   "workingHours": "Open today · Reply on WhatsApp fast",
   "taglineOverride": "",
-  "about": "Lahore Clinic لاہور کلینک provides trusted all niches services in Lahore.",
+  "about": "Lahore Clinic لاہور کلینک provides trusted clinic services in Lahore.",
   "urduSupport": true
 }
